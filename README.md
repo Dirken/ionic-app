@@ -1,2 +1,2 @@
 # ionic-app
-Ionic app prove of concept
+Ionic app proof of concept
